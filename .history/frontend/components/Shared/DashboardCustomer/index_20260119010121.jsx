@@ -1,1 +1,0 @@
-à tôi muốn giữ lại "Giao dịch thành công"

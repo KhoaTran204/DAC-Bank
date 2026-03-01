@@ -1,4 +1,0 @@
-# ignore env files
-.env
-backend/.env
-frontend/.env
